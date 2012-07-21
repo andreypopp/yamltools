@@ -1,0 +1,9 @@
+build
+dist
+*.egg-info
+*.py[co]
+node_modules
+docs/_build
+ui2/css/*
+.monitor
+npm-debug.log

@@ -1,0 +1,4 @@
+command line tools for dealing with YAML
+
+  % yaml get config.yaml db.name
+  % yaml set config.yaml db.name myappdb
